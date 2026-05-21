@@ -1,1 +1,31 @@
-/* Start coding here */
+html,
+body {
+  height: 100%;
+  max-height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 50px;
+  background-color: lightgrey;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100%;
+}
+
+.box-1 {
+  height: 25%;
+  background-color: orange;
+}
+
+.box-2 {
+  height: 25%;
+  background-color: khaki;
+}
+
+.box-3 {
+  height: 50%;
+  background-color: cornflowerblue;
+}
